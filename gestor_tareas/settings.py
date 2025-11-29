@@ -28,7 +28,6 @@ DEBUG = False
 ALLOWED_HOSTS = ['gestortareas.cl', 'www.gestortareas.cl']
 
 
-
 # Application definition
 
 INSTALLED_APPS = [
